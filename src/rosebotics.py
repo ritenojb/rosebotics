@@ -15,7 +15,7 @@ class StopAction(Enum):
 
 
 class Snatch3rRobot(object):
-    """ A Snatch3r robot. """
+    """ A Snatch3r robot.   """
 
     def __init__(self, left_wheel_port=ev3.OUTPUT_B, right_wheel_port=ev3.OUTPUT_C):
         self.left_wheel = Wheel(left_wheel_port)
