@@ -1,5 +1,5 @@
 """
-  Capstone Project.  Code written by Landon Bundy.
+  Capstone Project.  Code written by   Landon Bundy.
   Fall term, 2018-2019.
 """
 
