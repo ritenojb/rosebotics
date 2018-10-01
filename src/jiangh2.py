@@ -8,7 +8,7 @@ import time
 
 
 def main():
-    """ Runs tests.  """
+    """ Runs tests. """
     run_tests()
 
 
@@ -28,7 +28,6 @@ def run_test_go_stop():
     print(robot.right_wheel.get_degrees_spun())
     print(robot.left_wheel.get_degrees_spun())
     robot.left_wheel.reset_degrees_spun(0)
-
 
     time.sleep(2)
 
