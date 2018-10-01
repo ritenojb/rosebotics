@@ -39,7 +39,7 @@ class Wheel(object):
           -- ev3.OUTPUT_B
           -- ev3.OUTPUT_C
 
-        Sets the defaults for the:
+        Sets the the defaults for the:
           -- duty_cycle_percent:  The duty cycle is the fraction of the time
                to which power is supplied to the motor.  Hence, we can think
                of the duty_cycle_percent as the "power" sent to the motor
